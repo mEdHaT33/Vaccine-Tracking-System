@@ -1,0 +1,14 @@
+﻿  HashTable.cpp
+  Main.cpp
+D:\University\Year 2\Data Structre\Vaccine Tracking System\Vaccine Tracking System\Main.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sets.cpp
+  User.cpp
+D:\University\Year 2\Data Structre\Vaccine Tracking System\Vaccine Tracking System\User.cpp(143,9): warning C4101: 'inputID': unreferenced local variable
+  VaccQueue.cpp
+  Generating Code...
+D:\University\Year 2\Data Structre\Vaccine Tracking System\Vaccine Tracking System\VaccQueue.cpp(44): warning C4715: 'VaccQueue::Front': not all control paths return a value
+D:\University\Year 2\Data Structre\Vaccine Tracking System\Vaccine Tracking System\User.cpp(86): warning C4715: 'User::MainMenu': not all control paths return a value
+D:\University\Year 2\Data Structre\Vaccine Tracking System\Vaccine Tracking System\User.cpp(139): warning C4715: 'User::UserMenu': not all control paths return a value
+D:\University\Year 2\Data Structre\Vaccine Tracking System\Vaccine Tracking System\Sets.cpp(58): warning C4715: 'sets::insert': not all control paths return a value
+D:\University\Year 2\Data Structre\Vaccine Tracking System\Vaccine Tracking System\HashTable.cpp(92): warning C4715: 'HashTable::search': not all control paths return a value
+  Vaccine Tracking System.vcxproj -> D:\University\Year 2\Data Structre\Vaccine Tracking System\x64\Debug\Vaccine Tracking System.exe
